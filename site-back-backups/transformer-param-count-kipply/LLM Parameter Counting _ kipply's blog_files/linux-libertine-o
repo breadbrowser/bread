@@ -1,0 +1,56 @@
+@font-face {
+    font-family: 'Linux Libertine O';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Linux Libertine O'), url('https://fonts.cdnfonts.com/s/19933/LinLibertine_R.woff') format('woff');
+}
+@font-face {
+    font-family: 'Linux Libertine O';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Linux Libertine O'), url('https://fonts.cdnfonts.com/s/19933/LinLibertine_RI.woff') format('woff');
+}
+@font-face {
+    font-family: 'Linux Libertine O';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Linux Libertine O'), url('https://fonts.cdnfonts.com/s/19933/LinLibertine_RZ.woff') format('woff');
+}
+@font-face {
+    font-family: 'Linux Libertine O';
+    font-style: italic;
+    font-weight: 600;
+    src: local('Linux Libertine O'), url('https://fonts.cdnfonts.com/s/19933/LinLibertine_RZI.woff') format('woff');
+}
+@font-face {
+    font-family: 'Linux Libertine O';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Linux Libertine O'), url('https://fonts.cdnfonts.com/s/19933/LinLibertine_RB.woff') format('woff');
+}
+@font-face {
+    font-family: 'Linux Libertine O';
+    font-style: italic;
+    font-weight: 700;
+    src: local('Linux Libertine O'), url('https://fonts.cdnfonts.com/s/19933/LinLibertine_RBI.woff') format('woff');
+}
+@font-face {
+    font-family: 'Linux Libertine Display O';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Linux Libertine Display O'), url('https://fonts.cdnfonts.com/s/19933/LinLibertine_DR.woff') format('woff');
+}
+@font-face {
+    font-family: 'Linux Libertine Initials O';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Linux Libertine Initials O'), url('https://fonts.cdnfonts.com/s/19933/LinLibertine_I.woff') format('woff');
+}
+@font-face {
+    font-family: 'Linux Libertine Mono O';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Linux Libertine Mono O'), url('https://fonts.cdnfonts.com/s/19933/LinLibertine_M.woff') format('woff');
+}
+
+
