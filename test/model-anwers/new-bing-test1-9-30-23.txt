@@ -1,0 +1,15 @@
+## User
+
+lets play game where i say a word and you have to say a word that would fit the next word.
+
+## Bing
+
+Okay, that sounds like a fun game. I'll start with the word "apple". You have to say a word that would fit the next word. For example, you could say "pie" or "juice".
+
+## User
+
+Is
+
+## Bing
+
+Is what? You have to say a word that would fit the next word after "apple". For example, you could say "pie" or "juice".
